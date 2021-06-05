@@ -23,9 +23,9 @@ DB setup, npm i, node seeds, node server
  
  Demo Video:  https://drive.google.com/file/d/1pCJnLrHoHoumzZWfB516sSQXeWGOJG12/view
  
- ![Insomnia1] (./images/Capture1.JPG)
+ ![Insomnia1](./images/Capture1.JPG)
 
- ![Insomnia2] (./images/Capture2.JPG)
+ ![Insomnia2](./images/Capture2.JPG)
 
  # Contributing
  Created by Jason Bolton
