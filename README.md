@@ -14,10 +14,18 @@ Demonstrating back-end functionality for an E-Commerce business. It coded to int
  * [Questions](#questions)
 
 
+
+# Installation 
+
+DB setup, npm i, node seeds, node server
+
  # Useage
  
  Demo Video:  https://drive.google.com/file/d/1pCJnLrHoHoumzZWfB516sSQXeWGOJG12/view
  
+ ![Insomnia1] (./images/Capture1.JPG)
+
+ ![Insomnia2] (./images/Capture2.JPG)
 
  # Contributing
  Created by Jason Bolton
