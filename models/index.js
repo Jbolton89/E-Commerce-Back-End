@@ -22,7 +22,7 @@ Product.belongsToMany(Tag, {
   onDelete: 'CASCADE',
 });
 // Tags belongToMany Products (through ProductTag)
-Tag.belongsTOMany(Product, { 
+Tag.belongsToMany(Product, { 
   foreignKey: 'tag_id', 
   through: { model: ProductTag }, 
   onDelete: 'CASCADE'
